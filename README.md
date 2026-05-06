@@ -167,5 +167,4 @@ Set `--mode test` on any train script to dump `*_Pred.nii.gz` under
 
 ## Contact
 
-Corresponding author: Prof. Xin Zhou (<xinzhou@wipm.ac.cn>).
 Corresponding for code problem: Siyang Zhang (<zhsy2577935553@gmail.com>)
