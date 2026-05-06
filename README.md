@@ -165,18 +165,7 @@ After training, the slice checkpoint is at `<train_output_dir>/model/agnostic.pt
 Set `--mode test` on any train script to dump `*_Pred.nii.gz` under
 `<test_output_dir>/predictions/`.
 
-## Citation
-
-```bibtex
-@article{guo2026cdstep,
-  title   = {Single-frame Semi-supervised Cine MRI and Echocardiography Sequence Segmentation},
-  author  = {Guo, Fumin and Zhang, Siyang and Qin, Yinqi and Xiao, Sa and Zhou, Xin},
-  journal = {Medical Image Analysis},
-  year    = {2026},
-  note    = {Under review}
-}
-```
-
 ## Contact
 
 Corresponding author: Prof. Xin Zhou (<xinzhou@wipm.ac.cn>).
+Corresponding for code problem: Siyang Zhang (<zhsy2577935553@gmail.com>)
