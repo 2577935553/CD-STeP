@@ -167,4 +167,4 @@ Set `--mode test` on any train script to dump `*_Pred.nii.gz` under
 
 ## Contact
 
-Correspond code problem: Siyang Zhang (<zhsy2577935553@gmail.com>)
+ Siyang Zhang (<zhsy2577935553@gmail.com>)
