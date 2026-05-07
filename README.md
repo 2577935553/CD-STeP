@@ -2,19 +2,6 @@
 
 Code for "Single-frame Semi-supervised Cine MRI and Echocardiography Sequence Segmentation".
 
-## Paper-to-code mapping
-
-| Paper | File | Class |
-|---|---|---|
-| SegSlc | `models/seg_models.py` | `SingleUnet` (alias `SegSlc`) |
-| SegSeq | `models/seg_models.py` | `SegSeq` (alias `TempSeg_Mem_New_ALL`) |
-| CSTC   | `models/seg_models.py` | `SegSeq.compute_temporal_similarity()` |
-| CGGC   | `models/seg_models.py` | `SegSeq.compute_global_similarity()` |
-| DSTE   | `models/dste.py` | `DSTE` |
-| CDE    | `models/dste.py` | `CDE` (alias `ImprovedTemporalModule`) |
-| SCA    | `models/dste.py` | `SCA` (alias `LightweightSpatialModule`) |
-| DMBF   | `models/dste.py` | `DMBF` (alias `AdaptiveFusion`) |
-
 ## Layout
 
 ```
