@@ -35,6 +35,7 @@ Tested with PyTorch 1.7.1 + CUDA 11.0 (also works with PyTorch 2.0 + CUDA 11.8).
 Download and place under your own paths:
 
 - **ACDC** — <https://www.creatis.insa-lyon.fr/Challenge/acdc/>
+- **ACDC Compelete 4D Manual Label** — <https://huggingface.co/datasets/SiyangZhang/MIA-ACDC-4DSeg/>
   ```
   acdc/training/patientXXX/patientXXX_4d.nii.gz
                           /patientXXX_4d_manu.nii.gz
